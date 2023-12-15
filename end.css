@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: ghostwhite;
+}
+.container{
+    margin-top: 67px;
+    width: 320px;
+    /* margin: 0 auto; */
+    /* border: 1px solid red; */
+    background-color: #fff;
+    border-radius: 15px;
+    margin-left: 900px
+}
+.spn i{
+    margin-left: 140px;
+}
+
+.text h4{
+    margin-left: 35px;
+    color: rgb(30, 157, 76);
+}
+.text h3{
+    margin-left: 100px;
+}
+.text p{
+    margin-left: 90px;
+    font-weight: 900;
+    color: gray;
+}
+.info span{
+    font-weight: 550;
+    color: gray;
+    display: flex;
+
+}
+.info p{
+    font-weight: 900;
+    padding-left: 15px;
+}
+.end{
+    font-weight: 550;
+    color: gray;
+    margin-left: 15px;
+}
